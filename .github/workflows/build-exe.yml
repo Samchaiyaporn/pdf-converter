@@ -31,6 +31,7 @@ jobs:
             --onefile `
             --windowed `
             --name "PDF Converter" `
+            --icon "icon.ico" `
             --collect-all customtkinter `
             --collect-all pymupdf `
             --hidden-import=PIL `
